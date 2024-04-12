@@ -4,7 +4,7 @@
     background-color: #571807;
     box-shadow: 5px 5px 5px #3F1407;
     text-align: justify;
-    margin: auto;
+    
 }
 
 hr
@@ -57,7 +57,7 @@ hr
 body{
     background-color: #571807;
     color: #e8d4a1;
-    text-align: justify;
     font-size: 16px;
+    margin: auto;
 }
 
