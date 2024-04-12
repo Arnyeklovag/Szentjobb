@@ -3,6 +3,7 @@
     width: 950px;
     background-color: #571807;
     box-shadow: 5px 5px 5px #3F1407;
+    margin: auto;
 }
 
 hr
@@ -52,7 +53,8 @@ hr
     text-align: right;
     font-size: 12pt;
 }
-#body{
+body{
     background-color: #571807;
+    color: #e8d4a1;;
 }
 
