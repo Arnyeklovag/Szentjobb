@@ -56,6 +56,8 @@ hr
 }
 body{
     background-color: #571807;
-    color: #e8d4a1;;
+    color: #e8d4a1;
+    text-align: justify;
+    font-size: 16px;
 }
 
