@@ -4,7 +4,11 @@
     background-color: #571807;
     box-shadow: 5px 5px 5px #3F1407;
     text-align: justify;
-    
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 hr
@@ -18,28 +22,30 @@ hr
 .kozepre
 {
     text-align: center;
+    
 }
 
 #szentjobb
 {
-    width: 480px;
+    width: 280px;
 }
 
 #apatsag
 {
-    width: 220px;
+    width: 200px;
     margin-left: 20px;
 }
 
 #kapolna
 {
-    width: 220px;
+    width: 170px;
     margin-right: 20px;
+   
 }
 
 #vonat
 {
-    width: 360px;
+    width: 260px;
     margin-left: 20px;
 }
 
@@ -57,7 +63,10 @@ hr
 body{
     background-color: #571807;
     color: #e8d4a1;
-    font-size: 16px;
-    margin: auto;
+    font-size: 18px;
+    
 }
 
+.hiv{
+    color: #e8d4a1;
+}
